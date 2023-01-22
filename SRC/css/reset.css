@@ -1,0 +1,17 @@
+/*ALT+L+O pra executar na pagina, //criando seletores no CSS, ANTES DA CHAVE É SELETOR E DENTRO DA CHAVE É CARACTERISTICA/ estrutura de uma propriedade CSS */
+
+* {
+margin:0;
+padding: 0;
+box-sizing: border-box;
+}
+
+/*lista*/
+ul {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+}
+
